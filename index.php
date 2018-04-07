@@ -7,9 +7,11 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Naomi's Test</title>
     </head>
     <body>
+        
+        <h1>Naomi's Test Part 1</h1>
         <?php
         // put your code here
         ?>
