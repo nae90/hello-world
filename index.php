@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         
         <h1>Naomi's Test Part 1</h1>
+        <h2>Git hub testing testing </h2>
+        <h3>Hope this works !!!!!</h3>
         <?php
         // put your code here
         ?>
